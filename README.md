@@ -1,8 +1,8 @@
 <div align="center">
 
-# Grok for Raycast
+# Grok Theme for Raycast
 
-Minimalistyczne, monochromatyczne motywy dla [Raycast](https://raycast.com) inspirowane estetyką Grok — w wersji **Dark** i **Light**.
+Minimal, monochrome themes for [Raycast](https://raycast.com) inspired by the Grok look — in **Dark** and **Light**.
 
 </div>
 
@@ -10,20 +10,20 @@ Minimalistyczne, monochromatyczne motywy dla [Raycast](https://raycast.com) insp
   <img src="assets/grok-dark.png" width="49%" alt="Grok Dark" />
   <img src="assets/grok-light.png" width="49%" alt="Grok Light" />
 </p>
-## Instalacja
+## Installation
 
 > [!NOTE]
-> Własne motywy wymagają [Raycast Pro](https://raycast.com/pro).
+> Custom themes require [Raycast Pro](https://raycast.com/pro).
 
-| Motyw | Instalacja | Podgląd |
+| Theme | Install | Preview |
 |---|---|---|
-| **Grok Dark** | [**Dodaj do Raycast →**](https://ray.so/themes?author=Maciej%20Szamowski&authorUsername=szamski&version=1&name=Grok%20Dark&appearance=dark&colors=%230A0A0A,%231A1A1A,%23F5F5F5,%23FFFFFF,%23FFFFFF,%23FF5C5C,%23FF9F43,%23F5D547,%234ADE80,%2360A5FA,%23A78BFA,%23F472B6&addToRaycast) | [ray.so/themes](https://ray.so/themes?author=Maciej%20Szamowski&authorUsername=szamski&version=1&name=Grok%20Dark&appearance=dark&colors=%230A0A0A,%231A1A1A,%23F5F5F5,%23FFFFFF,%23FFFFFF,%23FF5C5C,%23FF9F43,%23F5D547,%234ADE80,%2360A5FA,%23A78BFA,%23F472B6) |
-| **Grok Light** | [**Dodaj do Raycast →**](https://ray.so/themes?author=Maciej%20Szamowski&authorUsername=szamski&version=1&name=Grok%20Light&appearance=light&colors=%23FFFFFF,%23F2F2F2,%230A0A0A,%23000000,%23000000,%23DC2626,%23EA580C,%23CA8A04,%2316A34A,%232563EB,%237C3AED,%23DB2777&addToRaycast) | [ray.so/themes](https://ray.so/themes?author=Maciej%20Szamowski&authorUsername=szamski&version=1&name=Grok%20Light&appearance=light&colors=%23FFFFFF,%23F2F2F2,%230A0A0A,%23000000,%23000000,%23DC2626,%23EA580C,%23CA8A04,%2316A34A,%232563EB,%237C3AED,%23DB2777) |
+| **Grok Dark** | [**Add to Raycast →**](https://ray.so/themes?author=Maciej%20Szamowski&authorUsername=szamski&version=1&name=Grok%20Dark&appearance=dark&colors=%230A0A0A,%231A1A1A,%23F5F5F5,%23FFFFFF,%23FFFFFF,%23FF5C5C,%23FF9F43,%23F5D547,%234ADE80,%2360A5FA,%23A78BFA,%23F472B6&addToRaycast) | [ray.so/themes](https://ray.so/themes?author=Maciej%20Szamowski&authorUsername=szamski&version=1&name=Grok%20Dark&appearance=dark&colors=%230A0A0A,%231A1A1A,%23F5F5F5,%23FFFFFF,%23FFFFFF,%23FF5C5C,%23FF9F43,%23F5D547,%234ADE80,%2360A5FA,%23A78BFA,%23F472B6) |
+| **Grok Light** | [**Add to Raycast →**](https://ray.so/themes?author=Maciej%20Szamowski&authorUsername=szamski&version=1&name=Grok%20Light&appearance=light&colors=%23FFFFFF,%23F2F2F2,%230A0A0A,%23000000,%23000000,%23DC2626,%23EA580C,%23CA8A04,%2316A34A,%232563EB,%237C3AED,%23DB2777&addToRaycast) | [ray.so/themes](https://ray.so/themes?author=Maciej%20Szamowski&authorUsername=szamski&version=1&name=Grok%20Light&appearance=light&colors=%23FFFFFF,%23F2F2F2,%230A0A0A,%23000000,%23000000,%23DC2626,%23EA580C,%23CA8A04,%2316A34A,%232563EB,%237C3AED,%23DB2777) |
 
-Po imporcie wybierz motyw w **Raycast → Settings → Appearance → Theme** albo komendą **Switch Theme**.
+After importing, pick the theme in **Raycast → Settings → Appearance → Theme** or with the **Switch Theme** command.
 
 <details>
-<summary>Instalacja bez przeglądarki (deeplink)</summary>
+<summary>Install without a browser (deeplink)</summary>
 
 **Grok Dark**
 
@@ -39,11 +39,11 @@ open 'raycast://theme?author=Maciej%20Szamowski&authorUsername=szamski&version=1
 
 </details>
 
-## Paleta
+## Palette
 
 ### Grok Dark
 
-| Rola | Kolor |
+| Role | Color |
 |---|---|
 | `background` | <img src="https://placehold.co/14x14/0A0A0A/0A0A0A.png" /> `#0A0A0A` |
 | `backgroundSecondary` | <img src="https://placehold.co/14x14/1A1A1A/1A1A1A.png" /> `#1A1A1A` |
@@ -58,11 +58,11 @@ open 'raycast://theme?author=Maciej%20Szamowski&authorUsername=szamski&version=1
 | `purple` | <img src="https://placehold.co/14x14/A78BFA/A78BFA.png" /> `#A78BFA` |
 | `magenta` | <img src="https://placehold.co/14x14/F472B6/F472B6.png" /> `#F472B6` |
 
-Źródło: [`grok-dark.json`](grok-dark.json)
+Source: [`grok-dark.json`](grok-dark.json)
 
 ### Grok Light
 
-| Rola | Kolor |
+| Role | Color |
 |---|---|
 | `background` | <img src="https://placehold.co/14x14/FFFFFF/FFFFFF.png" /> `#FFFFFF` |
 | `backgroundSecondary` | <img src="https://placehold.co/14x14/F2F2F2/F2F2F2.png" /> `#F2F2F2` |
@@ -77,8 +77,8 @@ open 'raycast://theme?author=Maciej%20Szamowski&authorUsername=szamski&version=1
 | `purple` | <img src="https://placehold.co/14x14/7C3AED/7C3AED.png" /> `#7C3AED` |
 | `magenta` | <img src="https://placehold.co/14x14/DB2777/DB2777.png" /> `#DB2777` |
 
-Źródło: [`grok-light.json`](grok-light.json)
+Source: [`grok-light.json`](grok-light.json)
 
-## Licencja
+## License
 
-[MIT](LICENSE). Projekt nieoficjalny, niepowiązany z xAI ani Raycast.
+[MIT](LICENSE). Unofficial project, not affiliated with xAI or Raycast.
