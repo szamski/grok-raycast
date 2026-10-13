@@ -6,7 +6,10 @@ Minimalistyczne, monochromatyczne motywy dla [Raycast](https://raycast.com) insp
 
 </div>
 
-<p align="center"><img src="assets/grok-dark.svg" width="420" alt="Grok Dark" /> <img src="assets/grok-light.svg" width="420" alt="Grok Light" /></p>
+<p align="center">
+  <img src="assets/grok-dark.png" width="49%" alt="Grok Dark" />
+  <img src="assets/grok-light.png" width="49%" alt="Grok Light" />
+</p>
 ## Instalacja
 
 > [!NOTE]
