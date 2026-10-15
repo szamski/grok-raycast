@@ -6,6 +6,12 @@ Themes for [Raycast](https://raycast.com) based on the **Grok Night** and **Grok
 
 </div>
 
+## Screenshots
+
+| Grok Night | Grok Day |
+|---|---|
+| ![Grok Night](screenshots/grok-night.png) | ![Grok Day](screenshots/grok-day.png) |
+
 ## Installation
 
 > [!NOTE]
